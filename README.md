@@ -1,2 +1,2 @@
 # SA
-Summer Analytics (SA) - week 1 Assignment
+Summer Analytics (SA) - weekly Assignments
